@@ -2,12 +2,12 @@ import pyrebase
 
 config = {
 	"apiKey": "AIzaSyC9EC7rYdSsqiGBMluWyg7KOXKkaPX53YQ",
-    								'authDomain': "het-rtugsh.firebaseapp.com",
-    								'databaseURL': "https://het-rtugsh.firebaseio.com",
-    								'projectId': "het-rtugsh",
-    								'storageBucket': "het-rtugsh.appspot.com",
-    								'messagingSenderId': "584354217449",
-    								'appId': "1:584354217449:web:dca266a9592c2209595f78"
+    								'authDomain': "",
+    								'databaseURL': "",
+    								'projectId': "",
+    								'storageBucket': "",
+    								'messagingSenderId': "",
+    								'appId': ""
 }
 def enc(data):
 	return str(data[::-1])
